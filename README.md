@@ -1,7 +1,7 @@
 # 🌾 Rythu FreshMart – Consumer App  
 
 **Rythu FreshMart** is the consumer-facing marketplace app in the **Rythu Mitra ecosystem**.  
-It connects **farmers (via [Rythu Mitra Producer App](https://github.com/your-org/rythu-mitra-platform-reactnative))** directly with:  
+It connects **farmers (via [Rythu Mitra Producer App](https://github.com/RythuVerse/rythu-mitra-platform-reactnative))** directly with:  
 
 - 🏢 **Wholesale buyers** – bulk dealers, marts, distributors  
 - 🏬 **Retail buyers** – kirana shops, supermarkets  
@@ -42,7 +42,7 @@ This ensures **farmers earn better margins** and **consumers access farm-direct 
 ---
 
 ## 📂 Related Repositories  
-- 🌱 [rythu-mitra-platform-reactnative](https://github.com/your-org/rythu-mitra-platform-reactnative) – Farmer Producer App  
+- 🌱 [rythu-mitra-platform-reactnative](https://github.com/RythuVerse/rythu-mitra-platform-reactnative) – Farmer Producer App  
 - 🛒 `rythu-freshmart-consumerapp` – Consumer & Bulk Buyer App (this repo)  
 
 ---
